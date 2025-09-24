@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paramith%20Kavisha-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramith-kavisha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paramith%20Kavisha-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramith kavisha)  
 [![Email](https://img.shields.io/badge/Email-Paramith%20Kavisha-red?logo=gmail&logoColor=white)](mailto:paramithkavisha@gmail.com)  
 
 ---
